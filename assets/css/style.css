@@ -93,8 +93,29 @@ a, i{
 #section-gallery .col-12{
 margin-bottom: 50px;
 }
-
 .small-image-container{
   height: 250px;
   margin-bottom: 15px;
+}
+/* Footer */
+.footer{
+  border-top: 1px solid #ccc;
+  height: 250px;
+  padding: 30px;
+}
+.footer p{
+  text-align: center;
+  margin: 20px;
+}
+#social-icons{
+padding: 25px;
+}
+#social-icons i{
+  font-size: 20px;
+}
+#social-icons div{
+  text-align: center;
+}
+a:hover i{
+  color: #c1b696;
 }
