@@ -69,3 +69,32 @@ a, i{
   left: 25px;
   bottom: 25px;
 }
+/* Gallery */
+#img2{
+  background-image: url(../images/g_2.jpg);
+}
+#img3{
+  background-image: url(../images/g_3.jpg);
+}
+#img4{
+  background-image: url(../images/g_4.jpg);
+}
+#img5{
+  background-image: url(../images/g_5.jpg);
+}
+#img6{
+  background-image: url(../images/g_6.jpg);
+}
+#section-gallery h1{
+  text-align: center;
+}
+#section-gallery h1, 
+#section-gallery .col-md-6, 
+#section-gallery .col-12{
+margin-bottom: 50px;
+}
+
+.small-image-container{
+  height: 250px;
+  margin-bottom: 15px;
+}
