@@ -55,3 +55,17 @@ a, i{
 #navbar a:hover{
   color: #c1b696;
 }
+/* Main banner */
+.main-image{
+  background-image: url(../images/g_1.jpg);
+  height: 400px;
+  position: relative;
+  margin-bottom: 30px;
+}
+.main-image-info{
+  background-color: #fff;
+  padding: 25px;
+  position: absolute;
+  left: 25px;
+  bottom: 25px;
+}
